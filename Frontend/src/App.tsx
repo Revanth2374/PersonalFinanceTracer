@@ -16,10 +16,6 @@ function App() {
             <UserButton />
           </SignedIn>
 
-          <SignedIn>
-            <UserButton />
-          </SignedIn>
-
           <SignedOut>
             <SignInButton />
           </SignedOut>
